@@ -4,7 +4,7 @@ vocabulary <http://example.com/tutorial2/vocabulary/base#> as base {
 	extends <http://www.w3.org/2001/XMLSchema#> as xsd
 	
 	
-	@rdfs:comment "The class of things having an id and a canonical name"
+	@rdfs:comment "The class of things having an id and a canonical name 2"
 	aspect IdentifiedThing [
 	  key hasIdentifier
 	]
